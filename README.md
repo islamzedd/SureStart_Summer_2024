@@ -20,7 +20,17 @@ The first phase of SureStart VAIL is the Tech Training phase, which will last 3.
 
 The modules are as follows:
 
-__Module 6__: We start Phase 1 with an introduction to machine learning algorithms, and how a state-of-the-art library makes it easy and fun to run on-the-shelf machine learning (ML) models for Linear Regression, Decision Trees and Random Forest.
+__Module 1__: We begin Phase 1 with refreshing our knowledge of python I/O, data types, data structures, logical loops, exception handling and file I/O.
+
+__Module 2__: Continuing the exploration of python fundamentals, we see the object oriented programming with python, handling packages/modules/libraries and debugging errors and exceptions. 
+
+__Module 3__: Numpy is a staple when working with wherever we want to work with data. We delve into how to make numpy arrays and matrixes and operations we can do on them.
+
+__Module 4__: Working with tabular data is easier in Pandas, Hence we look at exploring data in pandas.
+
+__Module 5__: Machine learning is an optimization problem. Solving simple optimization problems is possible via Scikit Learn and we may visualize the results for that using Matplotlib.
+
+__Module 6__: We continue Phase 1 with an introduction to machine learning algorithms, and how a state-of-the-art library makes it easy and fun to run on-the-shelf machine learning (ML) models for Linear Regression, Decision Trees and Random Forest.
 
 __Module 7__: Having had a general introduced to ML through simpler machine learning models, we will jump into Deep Learning, a more powerful ML modeling approach. We will also get an introduction to Tensorflow, a Python library that helps us to build deep neural networks easily and quickly. 
 
