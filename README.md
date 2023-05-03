@@ -7,6 +7,12 @@ The primary goal of the SureStart (with an Applied Deep Leaning focus) program i
 
 As a SureStart student, you will learn foundational concepts related to AI, get hands-on experience developing machine learning models, and practice using your skills to build AI solutions for real-world problems, using the a modular learning approach in a mentoring-centered environment. The 5-weeks of the program will have two Program Phases: the Tech Training Phase and the Tech Innovation Phase, and you will encounter the modules in each phase per the schedule and plan laid out below. 
 
+| Module 1  | Module 2  | Module 3  | Module 4  | Module 5  |
+|-----------|-----------|-----------|-----------|-----------|
+| __Module 6__  | __Module 7__  | __Module 8__  | __Module 9__  | __Module 10__ |
+| __Module 11__ | __Module 12__ | __Module 13__ | __Module 14__ | __Module 15__ |
+| __Module 16__ | __Module 17__ | __Module 18__ | __Module 19__ | __Phase 2__ |
+
 ## Program Phase 1: The Tech Training Phase
 
 The first phase of SureStart Trailblaizers is the Tech Training phase, which will last 3.5 weeks. This phase is a self-paced learning phase, in which students working in a team-based learning environment, supported by SureStart mentors, complete 14 technical modules focussed on building foundational AI knowledge and hands-on Machine Learning skills. Besides mentoring from the SureStart mentoring team, students will also receive advice, tips and recommendations for experienced academics and industry experts through our Career Pathways seminar series.
