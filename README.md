@@ -5,13 +5,16 @@
 
 The primary goal of the SureStart AI Trailblazer program is to support a global community of high-achieving, ambitious, and diverse group of tech-career aspirants in developing understanding of the AI ecosystem, building applied technical skills in machine learning and related technologies, along with "power" skills critical for career success through a modular program led by proximate technical mentors and supported by experts from industry and academia.
 
-As a SureStart AI Trailblazers participant, you will learn foundational concepts related to AI, get hands-on experience developing machine learning models, and practice using your skills to build AI solutions for real-world problems, using the a collaborative learning approach in a mentoring-centered environment. The 10-weeks of the program will have two Program Phases: the Tech Training Phase and the Tech Innovation Phase, and you will encounter the modules in each phase per the schedule and plan laid out below. 
+As a SureStart AI Trailblazers participant, you will learn foundational concepts related to AI, get hands-on experience developing machine learning models, and practice using your skills to build AI solutions for real-world problems, using the a collaborative learning approach in a mentoring-centered environment. The 10-weeks of the program will have two Program Phases: the Tech Training Phase and the Tech Innovation Phase. The Tech Training Phase has specific technical modules you will work on. The Tech Innovation Phase involves more independent group work. During this phase, using an entreprenuerial process, you will identify ONE socially-impactful real-world problem, and develop an innovative solution that addresses the selected real-world problem with your newly-learned AI, ML and data skills. 
+
+
+The modules you will encounter in Phase 1 are laid out in the following grid. Their descriptions as well as recommendations for Phase 2 are presented below the grid.  **We recommend reading through this entire ReadMe before going to the specific modules **
 
 | [Module 1](./Module_01_Python_Review_Fundamentals_I)  | [Module 2](./Module_02_Python_Review_Fundamentals_II)  | [Module 3](./Module_03_Python_Review_NumPy)  | [Module 4](./Module_04_Python_Review_Pandas)  | [Module 5](./Module_05_Python_Review_Matplotlib_%26_SciPy)  |
 |-----------|-----------|-----------|-----------|-----------|
 | [__Module 6__](./Module_06_Machine_Learning) | [__Module 7__](./Module_07_Deep_Learning_and_TensorFlow)  | [__Module 8__](./Module_08_Artificial_Neural_Networks)  | [__Module 9__](./Module_09_Convolutional_Neural_Network)  | [__Module 10__](./Module_10_Regression_Loss_Functions) |
 | [__Module 11__](./Module_11_Classfication_Loss_Functions) | [__Module 12__](./Module_12_Optimization) | [__Module 13__](./Module_13_Activation_Functions) | [__Module 14__](./Module_14_Overfitting_and_Underfitting) | [__Module 15__](./Module_15_Regularization) |
-| [__Module 16__](./Module_16_Ethics_and_Bias) | [__Module 17__](./Module_17_Autoencoders) | [__Module 18__](./Module_18_Computer_Vision_and_GANs) | [__Module 19__](./Module_19_Style_Transfer) | [__Phase 2__](https://github.com/MySureStart/SureStart_Summer_2023/blob/main/README.md#program-phase-2-the-tech-innovation-phase)| 
+| [__Module 16__](./Module_16_Ethics_and_Bias) | [__Module 17__](./Module_17_Autoencoders) | [__Module 18__](./Module_18_Computer_Vision_and_GANs) | [__Module 19__](./Module_19_Style_Transfer) | [__Tech Innovation Phase__](https://github.com/MySureStart/SureStart_Summer_2023/blob/main/README.md#program-phase-2-the-tech-innovation-phase)| 
 
 ## Program Phase 1: The Tech Training Phase
 
