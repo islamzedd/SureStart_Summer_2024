@@ -14,7 +14,7 @@ The modules you will encounter in Phase 1 are laid out in the following grid. Th
 |-----------|-----------|-----------|-----------|-----------|
 | [__Module 6__](./Module_06_Machine_Learning) | [__Module 7__](./Module_07_Deep_Learning_and_TensorFlow)  | [__Module 8__](./Module_08_Artificial_Neural_Networks)  | [__Module 9__](./Module_09_Convolutional_Neural_Network)  | [__Module 10__](./Module_10_Regression_Loss_Functions) |
 | [__Module 11__](./Module_11_Classfication_Loss_Functions) | [__Module 12__](./Module_12_Optimization) | [__Module 13__](./Module_13_Activation_Functions) | [__Module 14__](./Module_14_Overfitting_and_Underfitting) | [__Module 15__](./Module_15_Regularization) |
-| [__Module 16__](./Module_16_Ethics_and_Bias) | [__Module 17__](./Module_17_Autoencoders) | [__Module 18__](./Module_18_Computer_Vision_and_GANs) | [__Module 19__](./Module_19_Style_Transfer) | [__Tech Innovation Phase__](https://github.com/MySureStart/SureStart_Summer_2023/blob/main/README.md#program-phase-2-the-tech-innovation-phase)| 
+| [__Module 16__](./Module_16_Ethics_and_Bias) | [__Module 17__](./Module_17_Autoencoders) | [__Module 18__](./Module_18_Computer_Vision_and_GANs) | [__Module 19__](./Module_19_Style_Transfer) | [__Phase 2__](https://github.com/MySureStart/SureStart_Summer_2023/blob/main/README.md#program-phase-2-the-tech-innovation-phase)| 
 
 ## Program Phase 1: The Tech Training Phase
 
