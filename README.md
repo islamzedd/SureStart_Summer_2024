@@ -8,7 +8,7 @@ The primary goal of the SureStart AI Trailblazer program is to support a global 
 As a SureStart AI Trailblazers participant, you will learn foundational concepts related to AI, get hands-on experience developing machine learning models, and practice using your skills to build AI solutions for real-world problems, using the a collaborative learning approach in a mentoring-centered environment. The 10-weeks of the program will have two Program Phases: the Tech Training Phase and the Tech Innovation Phase. The Tech Training Phase has specific technical modules you will work on. The Tech Innovation Phase involves more independent group work. During this phase, using an entreprenuerial process, you will identify ONE socially-impactful real-world problem, and develop an innovative solution that addresses the selected real-world problem with your newly-learned AI, ML and data skills. 
 
 
-The modules you will encounter in Phase 1 are laid out in the following grid. Their descriptions as well as recommendations for Phase 2 are presented below the grid.  **We recommend reading through this entire ReadMe before going to the specific modules **
+The modules you will encounter in Phase 1 are laid out in the following grid. Their descriptions as well as recommendations for Phase 2 are presented below the grid.  __We recommend reading through this entire ReadMe before going to the specific modules.__
 
 | [Module 1](./Module_01_Python_Review_Fundamentals_I)  | [Module 2](./Module_02_Python_Review_Fundamentals_II)  | [Module 3](./Module_03_Python_Review_NumPy)  | [Module 4](./Module_04_Python_Review_Pandas)  | [Module 5](./Module_05_Python_Review_Matplotlib_%26_SciPy)  |
 |-----------|-----------|-----------|-----------|-----------|
