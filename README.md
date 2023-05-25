@@ -65,8 +65,11 @@ At the very beginning of Phase 2, the Makeathon theme choices will be presented 
 Though in this phase individuals and teams have no specific Colab notebooks to work on, here are our recommendations for a modular approach to working on your Capstone project:
 
 __Table stakes__: Attend all three presentations related to the Makeathon:
+
 [Introduction to the Makeathon](https://docs.google.com/presentation/d/1NW9gu3NbEVnvzPLMyhvqbM_TIFsnsi6bfFnbyj9aQKQ/edit?usp=sharing)
+
 [Using an Entrepreneurial  Process for the Makeathon](https://docs.google.com/presentation/d/1NW9gu3NbEVnvzPLMyhvqbM_TIFsnsi6bfFnbyj9aQKQ/edit?usp=sharing)
+
 [Action Plan for Capstone  Project Success](https://docs.google.com/presentation/d/1NW9gu3NbEVnvzPLMyhvqbM_TIFsnsi6bfFnbyj9aQKQ/edit?usp=sharing)
 
 __Inspiration__: Watch some [past SureStart Makeathon winners](https://www.youtube.com/watch?v=a9FyCODLflg&list=PLsSCYP2a9mZhAVJLVefDkOskkoW8m_UwH).
